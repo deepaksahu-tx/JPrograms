@@ -13,7 +13,7 @@ public class SortHashMapScanner {
     public static void main(String args[])
     {
     	
-    	Scanner scanner=new Scanner(System.in);
+    	 Scanner scanner=new Scanner(System.in);
     	 System.out.println("Enter the number of key-value pairs in the HashMap:");
     	 int n=scanner.nextInt();
     	 scanner.nextInt();

@@ -8,7 +8,7 @@ public class DescendingOrder {
 		// TODO Auto-generated method stub
 		int arr[] = {8,9,23,98,1,567,897,5};
 		int temp=0;
-		/*System.out.println("Elements of original array : ");
+		System.out.println("Elements of original array : ");
 		for(int i=0;i<arr.length;i++) {
 			System.out.print(arr[i]+" ");
 		}
@@ -27,10 +27,10 @@ public class DescendingOrder {
       for(int i=0;i<arr.length;i++){
     	  System.out.print(arr[i]+" ");
       }
-      */
+      
       //Using Scanner Class
 		
-      int [] number=new int[3];
+  /*    int [] number=new int[3];
       System.out.println("enter an array of element: ");
       Scanner value=new Scanner(System.in);
       for(int i=0;i<number.length;i++) {
@@ -49,7 +49,7 @@ public class DescendingOrder {
       for(int i=0;i<number.length;i++){
     	  System.out.print(number[i]+" ");
       }
-      
+      */
 	}
 
 }
