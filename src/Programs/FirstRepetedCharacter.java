@@ -19,6 +19,6 @@ public class FirstRepetedCharacter {
         	}
         }
 	}
-        System.out.println("not Repeated character");   
+        System.out.println("not Repeated character");
   }
 }
